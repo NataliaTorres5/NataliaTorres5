@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nataliatorres5" alt="nataliatorres5" /></a> </p>
 
-- 🔭 I’m currently working on [Fundación Retorno a la Libertad](https://github.com/fundacion-rl/frontend-app)
+- 🔭 My recent work was in [e-Branding Strategy] as a Software and Web developer
 
 - 🌱 I’m currently learning **AWS, PostgreSQL,**
 
